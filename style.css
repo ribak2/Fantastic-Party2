@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+header {background-color: lightblue;
+padding: 10px;
+border-radius: 9px;
+}
+header b{ color: #05a4e3;}
+header a{background-color:  white ;
+color: blue;
+border-radius: 8px;
+padding: 8px;
+text-decoration: none;}
+
+main h1 { color: blue;
+text-align: center;}
+main{text-align: center;}
+
+footer{border: 2px solid grey;
+text-align: center;}
+
+nav{background-color: lightgreen;
+padding: 10px;
+border-radius: 10px;
+}
+
+nav a{text-decoration: none;
+color: white;
+padding: 10px;}
+main p {background-color: lightgreen;}
+
+main #discount{color: blue;}
+main #delivery{color: blue;}
+main a{text-decoration: none;
+border: 3px solid blue;
+padding: 10px;}
+main h2{color: blue;}
